@@ -1,0 +1,8 @@
+# User-specific stuff
+.idea
+
+# Output
+out
+
+# Idea iml files
+*.iml
